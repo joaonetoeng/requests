@@ -1,6 +1,8 @@
 Release History
 ===============
 
+**Joao neto**
+
 dev
 ---
 
